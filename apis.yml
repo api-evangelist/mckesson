@@ -1,7 +1,11 @@
 aid: mckesson
-url: https://raw.githubusercontent.com/api-evangelist/mckesson/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mckesson/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.mckesson.com
+description: >-
+  The leading healthcare company for wholesale medical supplies & equipment, pharmaceutical
+  distribution, and healthcare technology solutions.
