@@ -1,26 +1,26 @@
 # McKesson (mckesson)
-McKesson is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for McKesson.
+McKesson is a Fortune 500 healthcare company providing wholesale medical supplies and equipment, pharmaceutical distribution, and healthcare technology solutions. No public developer APIs are currently documented.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/mckesson/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+- **Type:** Index 
+- **Position:** Consuming 
+- **Access:** 3rd-Party 
 
 ## Tags:
 
- - Fortune 500
+ - Healthcare, Pharmaceutical, Distribution, Medical Supplies, Fortune 500
 
 ## Timestamps
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Created:** 2026-03-21 
+- **Modified:** 2026-04-28 
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No APIs have been documented yet. Check back for updates.
 
 ## Common Properties
 
@@ -28,6 +28,6 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
