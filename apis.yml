@@ -18,6 +18,10 @@ tags:
   - Pharmaceutical
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/mckesson
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mckesson
   - type: Website
     url: https://www.mckesson.com
 maintainers:
