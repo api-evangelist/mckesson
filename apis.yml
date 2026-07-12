@@ -18,6 +18,10 @@ tags:
   - Pharmaceutical
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/mckesson-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/mckesson-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/mckesson
   - type: LinkedIn
