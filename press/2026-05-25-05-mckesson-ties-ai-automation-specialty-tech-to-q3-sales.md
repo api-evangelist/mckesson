@@ -1,7 +1,9 @@
 ---
 title: McKesson ties AI, automation, specialty tech to Q3 sales ...
 url: https://www.digitalcommerce360.com/2026/02/05/mckesson-ai-automation-specialty-tech-q3-sales/
-date: '2026-05-25'
+published: '2026-02-05'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"McKesson" press release artificial intelligence'
 position: 5
 source: serpapi-google

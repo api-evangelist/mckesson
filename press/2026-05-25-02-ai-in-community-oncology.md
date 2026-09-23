@@ -1,7 +1,9 @@
 ---
 title: AI in Community Oncology
 url: https://www.mckesson.com/stories-insights/ai-in-community-oncology/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"McKesson" press release artificial intelligence'
 position: 2
 source: serpapi-google
