@@ -35,3 +35,36 @@
     detected: '2026-10-20'
   status: not-a-workflow
   arazzo: null
+- slug: mckesson-drummond-group-dea-epcs-certification
+  label: Drummond Group (DEA EPCS certification)
+  partner_name: Drummond Group (DEA EPCS certification)
+  category: DEA EPCS certified application
+  type: register
+  channel: standard-directory
+  evidence: https://www.drummondgroup.com/certified-products/epcs/
+  source: edge
+  relationship: standard-participant
+  contract_reference:
+    register: Drummond Group DEA EPCS certified products (drummondgroup.com/certified-products/epcs)
+    spec_file: null
+    standard: DEA EPCS (21 CFR Part 1311) third-party certification
+    role: epcs-integration-audited
+    registered_name: McKesson
+    matched_domain: mckesson.com
+    matched_by: domain
+    identity: wikidata Q570473 'McKesson Corporation' P856 http://www.mckesson.com/
+    identity_source: wikidata P856 (labelled provenance step; Kin 2026-10-15 decision 1)
+    listing_kinds:
+    - integration
+    products_sample:
+    - iKnowMed Generation 2 Desktop
+    - iKnowMed Generation 2 Mobile (Version 15.0.0)
+    certified_products: []
+    signal_note: certified_products = one entry per EPCS application TYPE (prescriber / pharmacy) the company built
+      and had audited; integration audits (a purchased EPCS module) are participation only; lapsed when the newest
+      certification of that type is over two years old (DEA re-audit cycle); product and version counts are context,
+      never counted
+    detected_by: sweep-e-prescribing.py
+    detected: '2026-10-20'
+  status: not-a-workflow
+  arazzo: null
